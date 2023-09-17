@@ -1,23 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a Simple program that most engineers first learn to program. It is something I wanted to make a short video on.
 
-{Provide a description of your software}
+This uses visual studio code which is free to everyone to write the simple python code printing of Hello World
 
-{Describe your purpose for creating this software.}
+This was to help me get comfortable with making videos and talking about code. It also is to help anyone who doesn't already know python.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Rho2Nn44_YQ)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual studio Code and python 3.11
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+This website is also a helpful resource to anyone wanting to learn python:
+* [W3Schools](https://www.w3schools.com/python/)
+
